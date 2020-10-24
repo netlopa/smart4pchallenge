@@ -24,7 +24,7 @@ The frontend part was done with Angular 8 (you can find the source code in ./src
 1. Make sure you have Java 8 installed and properly configured
 2. Run the following command
 ```
-git clone https://github.com/netlopa/urbichallenge.git
+git clone https://github.com/netlopa/smart4pchallenge.git
 ```
 3. Inside the created folder you need to run 
 ```
