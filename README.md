@@ -17,7 +17,7 @@ curl --location --request GET 'http://localhost:8080/api/atm?search=Haarlem'
 
 This project was made with Java 8 with the Spring Boot framework and Maven for the Backend part.
 
-The frontend part was done with Angular 8
+The frontend part was done with Angular 8 (you can find the source code in ./src/main/resources/frontend )
 
 ## How to run the application (standalone)
 
